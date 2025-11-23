@@ -93,3 +93,4 @@ ExpectedMiles	Expected miles per week
 ✔ Higher income groups prefer premium models
 ✔ Age group 31-45 is the major customer segment
 ✔ Better self-rated fitness correlates with higher model preference
+
