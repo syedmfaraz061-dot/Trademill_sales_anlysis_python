@@ -1,4 +1,4 @@
-# Trademill_sales_anlysis_python
+# Treadmill_sales_anlysis_python
 A comprehensive data analytics project using Python, Pandas, Matplotlib, and Seaborn to analyze treadmill sales and customer demographics, uncovering insights into purchasing behavior and model preferences
 Treadmill Sales Analysis — Data Analytics Project
 A complete data analysis project exploring customer demographics, purchasing patterns, and model preferences for treadmill buyers using Python, Pandas, Matplotlib, and Seaborn.
